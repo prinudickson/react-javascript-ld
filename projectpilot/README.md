@@ -20,3 +20,5 @@ If you are developing a production application, we recommend using TypeScript an
 ## Project Installation.
 `npm install`
 
+## Run the application
+`npm run dev`
